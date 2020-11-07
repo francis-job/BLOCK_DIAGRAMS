@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T20:31:53.314Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ZMR8azFIO3b9oXNmRrly" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T20:35:40.833Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ao9LXJ8c8BQzuVYSsH1g" version="13.8.8" type="github">
   <diagram id="PJ2_TADi5Pd9X5yYLF05" name="Page-1">
     <mxGraphModel dx="1422" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,8 +101,8 @@
         <mxCell id="9uY0sfu1-B1SOh4RdpcF-38" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;SDA_USB&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="441" y="50" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9uY0sfu1-B1SOh4RdpcF-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;PTB[0..1]&lt;br&gt;PTA[12..17]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="539" width="80" height="30" as="geometry" />
+        <mxCell id="9uY0sfu1-B1SOh4RdpcF-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;PTB[0..1]&lt;br&gt;PTA[5,12..17]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="539" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9uY0sfu1-B1SOh4RdpcF-41" value="&lt;b style=&quot;font-size: 17px&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px&quot; color=&quot;#ff6666&quot;&gt;ETHERNET&amp;nbsp;&lt;br&gt;INTERFACE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="820" width="110" height="40" as="geometry" />
