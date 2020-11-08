@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T04:08:22.281Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="AMwBFIujqxETP8k8YkxL" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T04:11:24.641Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="nFsJuWv0n6fz5yECJId4" version="13.8.8" type="github">
   <diagram id="PJ2_TADi5Pd9X5yYLF05" name="Page-1">
-    <mxGraphModel dx="2249" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
         <mxCell id="9uY0sfu1-B1SOh4RdpcF-58" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;PTE[26]&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="320" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9uY0sfu1-B1SOh4RdpcF-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;WIFI INTERFACE&lt;br&gt;PINS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="9uY0sfu1-B1SOh4RdpcF-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;WIFI/RF INTERFACE&lt;br&gt;PINS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9uY0sfu1-B1SOh4RdpcF-60" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9uY0sfu1-B1SOh4RdpcF-59">
