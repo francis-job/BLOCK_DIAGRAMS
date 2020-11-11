@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T13:09:14.894Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="AI2YxwaIBuF8w4X2anJe" version="13.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-11T13:10:26.742Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="PgCoAmloYLWg4jof3kCw" version="13.9.2" type="github" pages="3">
   <diagram id="ksspDT3pl32W8o3eoOim" name="Page-1">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="IyNh4jMg71EMUGO2_zOi-11" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;I2C_MasterWriteBlocking()&lt;/b&gt;&lt;br&gt;Start Writing data to EEPROM&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SfYWa5TfrOvAzNs_Zvij-1">
           <mxGeometry x="59.5" y="840" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IyNh4jMg71EMUGO2_zOi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SfYWa5TfrOvAzNs_Zvij-1" source="IyNh4jMg71EMUGO2_zOi-13" target="IyNh4jMg71EMUGO2_zOi-17">
+        <mxCell id="IyNh4jMg71EMUGO2_zOi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SfYWa5TfrOvAzNs_Zvij-1" source="IyNh4jMg71EMUGO2_zOi-13" target="IyNh4jMg71EMUGO2_zOi-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="1015" as="targetPoint" />
           </mxGeometry>
@@ -215,13 +215,11 @@
         <mxCell id="IyNh4jMg71EMUGO2_zOi-16" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SfYWa5TfrOvAzNs_Zvij-1">
           <mxGeometry x="29.5" y="990" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IyNh4jMg71EMUGO2_zOi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="SfYWa5TfrOvAzNs_Zvij-1" source="IyNh4jMg71EMUGO2_zOi-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="698" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IyNh4jMg71EMUGO2_zOi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SfYWa5TfrOvAzNs_Zvij-1" source="IyNh4jMg71EMUGO2_zOi-17" target="IyNh4jMg71EMUGO2_zOi-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IyNh4jMg71EMUGO2_zOi-17" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;UPDATE subaddress&lt;br&gt;&amp;amp;&lt;br&gt;data_fragment--&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SfYWa5TfrOvAzNs_Zvij-1">
-          <mxGeometry x="-140" y="680" width="120" height="70" as="geometry" />
+          <mxGeometry x="-131" y="660" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IyNh4jMg71EMUGO2_zOi-19" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#0000cc&quot;&gt;&lt;b&gt;RETURN&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SfYWa5TfrOvAzNs_Zvij-1">
           <mxGeometry x="114.5" y="1130" width="120" height="80" as="geometry" />
