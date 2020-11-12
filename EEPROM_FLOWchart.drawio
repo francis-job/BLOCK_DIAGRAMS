@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T04:58:30.748Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="zCQ0ZWESOB93EUO6I3PH" version="13.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-12T04:59:44.621Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="SEmq3STttX8GPRmF9IWx" version="13.9.6" type="github" pages="4">
   <diagram id="ksspDT3pl32W8o3eoOim" name="Page-1">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,8 +241,8 @@
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-3" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;FRDM&lt;br&gt;K64F&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
           <mxGeometry x="590" y="280" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-2" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot; color=&quot;#ff0022&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;Schematics&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="334" y="20" width="160" height="30" as="geometry" />
+        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-2" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot; color=&quot;#ff0022&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;EEPROM interfacing Schematics&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
+          <mxGeometry x="189" y="20" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="YWQn4PuGVYZWhK7Qb37Q-1" source="YWQn4PuGVYZWhK7Qb37Q-3" target="YWQn4PuGVYZWhK7Qb37Q-32">
           <mxGeometry relative="1" as="geometry" />
@@ -420,8 +420,8 @@
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;A portion of the FRDM K64 for Simple Understanding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
           <mxGeometry x="540" y="150" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;R =10K&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="325" y="590" width="50" height="20" as="geometry" />
+        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;R =10Kohm&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
+          <mxGeometry x="20" y="110" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
