@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T05:07:30.794Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="XfOcCwQ0VDlgRtEfkUmA" version="13.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-12T05:10:48.541Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="OI88SZpgPMpg8JDN8Fcb" version="13.9.6" type="github" pages="4">
   <diagram id="ksspDT3pl32W8o3eoOim" name="Page-1">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,11 +255,11 @@
             <mxPoint x="690" y="219.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=box;startFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="YWQn4PuGVYZWhK7Qb37Q-1" target="YWQn4PuGVYZWhK7Qb37Q-4">
+        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="YWQn4PuGVYZWhK7Qb37Q-1" target="YWQn4PuGVYZWhK7Qb37Q-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="210" as="sourcePoint" />
+            <mxPoint x="560" y="250" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="300" y="210" />
+              <mxPoint x="300" y="250" />
               <mxPoint x="300" y="290" />
               <mxPoint x="227" y="290" />
             </Array>
@@ -343,23 +343,6 @@
             <mxPoint x="70" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;5V&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="285" y="190" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="YWQn4PuGVYZWhK7Qb37Q-1" source="YWQn4PuGVYZWhK7Qb37Q-29" target="YWQn4PuGVYZWhK7Qb37Q-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="290" />
-              <mxPoint x="315" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-29" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;direction=south;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="285" y="300" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;direction=south;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="310" y="340" width="10" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-31" value="" style="endArrow=none;html=1;" edge="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="500" as="sourcePoint" />
@@ -396,12 +379,6 @@
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;GND&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
           <mxGeometry x="650" y="500" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-44" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="262" y="320" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="YWQn4PuGVYZWhK7Qb37Q-46" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="320" y="370" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-47" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
           <mxGeometry x="490" y="370" width="20" height="20" as="geometry" />
         </mxCell>
@@ -418,7 +395,7 @@
           <mxGeometry x="540" y="150" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;R =10Kohm&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
-          <mxGeometry x="20" y="110" width="80" height="20" as="geometry" />
+          <mxGeometry x="450" y="315" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YWQn4PuGVYZWhK7Qb37Q-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SDA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="YWQn4PuGVYZWhK7Qb37Q-1">
           <mxGeometry x="222" y="400" width="40" height="20" as="geometry" />
