@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T10:00:45.122Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uiG2tw_ZjPWPQX4Ul1Gz" version="14.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-18T11:37:37.778Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5XPpQimRLCbCJINflNX8" version="14.0.1" type="github" pages="2">
   <diagram id="9Y8ZHIoOVF3_s0dHNt5-" name="Page-1">
     <mxGraphModel dx="1248" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,6 +164,15 @@
         </mxCell>
         <mxCell id="vdGX9jNm9OBOQUhfP2pG-33" value="" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.piping.spacer;direction=south;" vertex="1" parent="vdGX9jNm9OBOQUhfP2pG-1">
           <mxGeometry x="724" y="380" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vdGX9jNm9OBOQUhfP2pG-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Console&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="vdGX9jNm9OBOQUhfP2pG-1">
+          <mxGeometry x="40" y="252.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vdGX9jNm9OBOQUhfP2pG-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MLC_Companion&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="vdGX9jNm9OBOQUhfP2pG-1">
+          <mxGeometry x="770" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vdGX9jNm9OBOQUhfP2pG-45" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;RGB_LED&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="vdGX9jNm9OBOQUhfP2pG-1">
+          <mxGeometry x="760" y="359" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
