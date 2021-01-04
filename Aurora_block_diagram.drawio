@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T06:42:05.485Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YH9pcIEjS4hZYOlGFUYs" version="14.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-04T06:43:20.937Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BGGUsJZIxIgLgPevNtQN" version="14.1.6" type="github" pages="2">
   <diagram id="6eIwNfogzPNkVRxrMjrU" name="Page-1">
     <mxGraphModel dx="1248" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,17 +165,17 @@
         <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;Task Notification&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
           <mxGeometry x="276" y="500" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-33" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
-          <mxGeometry x="300" y="288" width="40" height="20" as="geometry" />
+        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-33" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UART API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
+          <mxGeometry x="285" y="288" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-34" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
-          <mxGeometry x="500" y="300" width="40" height="20" as="geometry" />
+        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-34" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;I2C API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
+          <mxGeometry x="490" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-35" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
-          <mxGeometry x="500" y="450" width="40" height="20" as="geometry" />
+        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-35" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GPIO API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
+          <mxGeometry x="485" y="450" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-36" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
-          <mxGeometry x="306" y="437" width="40" height="20" as="geometry" />
+        <mxCell id="M8DuYNyFk_Nc_exrJ9hQ-36" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;PIT API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="sNVK6XGTzGybgCKoQpxa-1">
+          <mxGeometry x="296" y="437" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
