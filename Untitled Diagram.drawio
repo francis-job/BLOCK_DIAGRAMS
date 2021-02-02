@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T09:30:49.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="k4MuBi2VPcUAqA435viD" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-02T09:33:59.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="1GnnC2Fxwp_X2NpfAz5H" version="14.2.9" type="github" pages="4">
   <diagram id="GUdx2-bi7h3D82VZwNLV" name="Page-1">
     <mxGraphModel dx="1038" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JB-migpmvGy-5XM4boEO" name="Page-3">
-    <mxGraphModel dx="1483" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="W5p3aixpMp5s0jEmpPq9-0" />
         <mxCell id="W5p3aixpMp5s0jEmpPq9-1" parent="W5p3aixpMp5s0jEmpPq9-0" />
@@ -304,11 +304,17 @@
         <mxCell id="ktWRLGtfGnJ0KS_nMGsK-0" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="W5p3aixpMp5s0jEmpPq9-1">
           <mxGeometry x="622.5" y="510" width="45" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wA-AzZHdt4tWnWdQiIgi-0" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RB4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="W5p3aixpMp5s0jEmpPq9-1">
+          <mxGeometry x="425" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wA-AzZHdt4tWnWdQiIgi-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RB6&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="W5p3aixpMp5s0jEmpPq9-1">
+          <mxGeometry x="425" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bZkptVuwH1MR8MSFQ231" name="Page-4">
-    <mxGraphModel dx="865" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-NSE1ctSCsSLlOkksIyy-0" />
         <mxCell id="-NSE1ctSCsSLlOkksIyy-1" parent="-NSE1ctSCsSLlOkksIyy-0" />
