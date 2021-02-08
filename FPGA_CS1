@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T13:30:09.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="epbkmGVDGqiKbuPO9ltc" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-08T13:31:11.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="BLW5e9hoft3fYVxAjK1Y" version="14.2.9" type="github" pages="4">
   <diagram id="6BXFU3WvWYpKgXV9pAux" name="Page-1">
     <mxGraphModel dx="1008" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,6 +85,26 @@
         </mxCell>
         <mxCell id="OFCmHIZFHpHndWqxnyWn-8" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 14px&quot;&gt;Y&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="OFCmHIZFHpHndWqxnyWn-1">
           <mxGeometry x="530" y="306" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wntt3ZKQ2aS6IIa1rX5g" name="Page-4">
+    <mxGraphModel dx="1008" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="VMJIzfoo9pAezrTdsYA--0" />
+        <mxCell id="VMJIzfoo9pAezrTdsYA--1" parent="VMJIzfoo9pAezrTdsYA--0" />
+        <mxCell id="i2HVjJD93HlbTmFnpJ8M-1" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="VMJIzfoo9pAezrTdsYA--1">
+          <mxGeometry x="350" y="260" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i2HVjJD93HlbTmFnpJ8M-2" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;B&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="VMJIzfoo9pAezrTdsYA--1">
+          <mxGeometry x="350" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i2HVjJD93HlbTmFnpJ8M-3" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Y&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="VMJIzfoo9pAezrTdsYA--1">
+          <mxGeometry x="480" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i2HVjJD93HlbTmFnpJ8M-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;negating=1;" vertex="1" parent="VMJIzfoo9pAezrTdsYA--1">
+          <mxGeometry x="360" y="260" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
