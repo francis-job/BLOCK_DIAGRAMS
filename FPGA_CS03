@@ -1,17 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T06:53:46.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="_mbGmhbUF6YPxDtyrWEY" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T09:02:54.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ptPiqN1khA1o8xZjT04C" version="14.3.0" type="github" pages="2">
   <diagram id="vsKpB7FjE1IQQ6vr8lxG" name="Page-1">
-    <mxGraphModel dx="576" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_kLoFLY28Xr_6bKS4PZD-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="350" y="330" width="240" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="_kLoFLY28Xr_6bKS4PZD-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;INPUT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="50" height="20" as="geometry" />
+          <mxGeometry x="315" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_kLoFLY28Xr_6bKS4PZD-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CLOCK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="450" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_kLoFLY28Xr_6bKS4PZD-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop_with_clear;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="304" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_kLoFLY28Xr_6bKS4PZD-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RSTN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="284" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nZLCPqR9O3kh_nUj_V2o" name="Page-2">
+    <mxGraphModel dx="813" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-0" />
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-1" parent="jMD2aiTe5zW9UL-jMDR7-0" />
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;INPUT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jMD2aiTe5zW9UL-jMDR7-1">
+          <mxGeometry x="240" y="266" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CLOCK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jMD2aiTe5zW9UL-jMDR7-1">
+          <mxGeometry x="230" y="356" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RSTN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jMD2aiTe5zW9UL-jMDR7-1">
+          <mxGeometry x="330" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.t_type_flip-flop;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="jMD2aiTe5zW9UL-jMDR7-1">
+          <mxGeometry x="290" y="230" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-7" value="" style="endArrow=classic;html=1;" edge="1" parent="jMD2aiTe5zW9UL-jMDR7-1" target="jMD2aiTe5zW9UL-jMDR7-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="190" as="sourcePoint" />
+            <mxPoint x="400" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMD2aiTe5zW9UL-jMDR7-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jMD2aiTe5zW9UL-jMDR7-1">
+          <mxGeometry x="360" y="220" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
